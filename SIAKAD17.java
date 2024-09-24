@@ -51,7 +51,7 @@ public class SIAKAD17 {
             kualifikasi = "Gagal";
         }
 
-        // Output hasil
+        
         System.out.println("Mahasiswa dengan nama " + nama + " (NIM " + nim + " Kelas " + kelas + " Nomor Absen " + absen);
         System.out.println("Nilai akhir: " + nilaiAkhir);
         System.out.println("Nilai akhir huruf: " + nilaiHuruf);
