@@ -35,4 +35,3 @@ public class ModifikasiPemilihanSwitch17 {
     System.out.println(angka1 + " " + operator + " " + angka2 + " = " + hasil);
     }
 }
-
